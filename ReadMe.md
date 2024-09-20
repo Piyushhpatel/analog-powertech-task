@@ -10,7 +10,7 @@ How to setup the project with enviornment
 
 #### Step 1: Clone the respositiory
 ```
-  git clone https://github.com/Piyushhpatel/analog-powertech-task
+  git clone https://github.com/Piyushhpatel/analog-powertech-task.git
 ```
 
 #### Step 2: Install Node Modules
